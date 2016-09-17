@@ -3,6 +3,10 @@
     {
       "name": "Sudoku",
       "url": "https://github.com/sashankg/Sudoku"
+    },
+    {
+      "name": "Pacman Maze",
+      "url": "https://github.com/sashankg/PacmanMaze"
     }
   ]
 }
