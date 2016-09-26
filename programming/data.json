@@ -2,11 +2,11 @@
   "data": [
     {
       "name": "Sudoku",
-      "url": "https://github.com/sashankg/Sudoku"
+      "url": "https://rawgit.com/sashankg/Sudoku/master/README.md"
     },
     {
       "name": "Pacman Maze",
-      "url": "https://github.com/sashankg/PacmanMaze"
+      "url": "https://rawgit.com/sashankg/PacmanMaze/master/README.md"
     }
   ]
 }
