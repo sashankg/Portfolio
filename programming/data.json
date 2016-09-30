@@ -9,6 +9,11 @@
       "name": "Pacman Maze",
       "url": "https://rawgit.com/sashankg/PacmanMaze/master/README.md",
       "background": "#FFEE00"
+    },
+    {
+      "name": "Theseus and Minotaur",
+      "url": "https://rawgit.com/sashankg/TheseusAndMinotaur/master/README.md",
+      "background": "#FF0000"
     }
   ]
 }
