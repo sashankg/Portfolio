@@ -2,11 +2,13 @@
   "data": [
     {
       "name": "Sudoku",
-      "url": "https://rawgit.com/sashankg/Sudoku/master/README.md"
+      "url": "https://rawgit.com/sashankg/Sudoku/master/README.md",
+      "background": "https://rawgit.com/sashankg/Sudoku/master/number_patterns.png"
     },
     {
       "name": "Pacman Maze",
-      "url": "https://rawgit.com/sashankg/PacmanMaze/master/README.md"
+      "url": "https://rawgit.com/sashankg/PacmanMaze/master/README.md",
+      "background": "#FFEE00"
     }
   ]
 }
