@@ -8,7 +8,7 @@
     {
       "name": "Pacman Maze",
       "url": "https://rawgit.com/sashankg/PacmanMaze/master/README.md",
-      "background": "#FFEE00"
+      "background": "https://cdn.rawgit.com/sashankg/PacmanMaze/master/mazepattern.png"
     },
     {
       "name": "Theseus and Minotaur",
