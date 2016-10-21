@@ -1,6 +1,11 @@
 {
   "data": [
     {
+      "name": "Tekkotsu Composer",
+      "url": "https://cdn.rawgit.com/sashankg/Tekkotsu-Composer/master/README.md",
+      "background": "orange"
+    },
+    {
       "name": "Sudoku",
       "url": "https://rawgit.com/sashankg/Sudoku/master/README.md",
       "background": "https://rawgit.com/sashankg/Sudoku/master/number_patterns.png"
