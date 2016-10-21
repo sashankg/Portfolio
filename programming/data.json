@@ -14,6 +14,21 @@
       "name": "Theseus and Minotaur",
       "url": "https://rawgit.com/sashankg/TheseusAndMinotaur/master/README.md",
       "background": "https://cdn.rawgit.com/sashankg/TheseusAndMinotaur/master/greek_pattern.jpg"
+    },
+    {
+      "name": "Caesar",
+      "url": "https://cdn.rawgit.com/sashankg/Caesar/master/README.md",
+      "background": "#8E44AD"
+    },
+    {
+      "name": "Blog",
+      "url": "https://cdn.rawgit.com/sashankg/Blog-1.0/master/README.md",
+      "background": "#3498DB"
+    },
+    {
+      "name": "TicTacTics",
+      "url": "https://cdn.rawgit.com/sashankg/TicTacTics/master/README.md",
+      "background": "C0392B"
     }
   ]
 }
