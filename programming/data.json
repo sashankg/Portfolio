@@ -16,6 +16,11 @@
       "background": "https://cdn.rawgit.com/sashankg/PacmanMaze/master/mazepattern.png"
     },
     {
+      "name": "#helladeep",
+      "url": "https://cdn.rawgit.com/sashankg/-helladeep/master/README.md",
+      "background": "#e74c3c"
+    },
+    {
       "name": "Theseus and Minotaur",
       "url": "https://rawgit.com/sashankg/TheseusAndMinotaur/master/README.md",
       "background": "https://cdn.rawgit.com/sashankg/TheseusAndMinotaur/master/greek_pattern.jpg"
