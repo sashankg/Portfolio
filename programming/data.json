@@ -41,6 +41,11 @@
       "background": "https://cdn.rawgit.com/sashankg/ArtShowcase/master/artshowcasebg.png"
     },
     {
+      "name": "Dead Eye Shooting",
+      "url": "https://cdn.rawgit.com/sashankg/DeadEyeShooting/master/README.md",
+      "background": "green"
+    },
+    {
       "name": "Blog",
       "url": "https://cdn.rawgit.com/sashankg/Blog-1.0/master/README.md",
       "background": "#3498DB"
