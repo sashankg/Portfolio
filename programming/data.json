@@ -2,22 +2,22 @@
   "data": [
     {
       "name": "Tekkotsu Composer",
-      "url": "https://cdn.rawgit.com/sashankg/Tekkotsu-Composer/master/README.md",
+      "url": "https://raw.githubusercontent.com/sashankg/Tekkotsu-Composer/master/README.md",
       "background": "orange"
     },
     {
       "name": "Sudoku",
-      "url": "https://rawgit.com/sashankg/Sudoku/master/README.md",
+      "url": "https://raw.githubusercontent.com/sashankg/Sudoku/master/README.md",
       "background": "https://rawgit.com/sashankg/Sudoku/master/number_patterns.png"
     },
     {
       "name": "Pacman Maze",
-      "url": "https://rawgit.com/sashankg/PacmanMaze/master/README.md",
+      "url": "https://raw.githubusercontent.com/sashankg/PacmanMaze/master/README.md",
       "background": "https://cdn.rawgit.com/sashankg/PacmanMaze/master/mazepattern.png"
     },
     {
       "name": "hashtag helladeep",
-      "url": "https://cdn.rawgit.com/sashankg/-helladeep/master/README.md",
+      "url": "https://raw.githubusercontent.com/sashankg/-helladeep/master/README.md",
       "background": "https://cdn.rawgit.com/sashankg/-helladeep/master/helladeepbg.png"
     },
     {
@@ -27,32 +27,32 @@
     },
     {
       "name": "TicTacTics",
-      "url": "https://cdn.rawgit.com/sashankg/TicTacTics/master/README.md",
+      "url": "https://raw.githubusercontent.com/sashankg/TicTacTics/master/README.md",
       "background": "https://cdn.rawgit.com/sashankg/TicTacTics/master/tttbackground.png"
     },
     {
       "name": "Caesar",
-      "url": "https://cdn.rawgit.com/sashankg/Caesar/master/README.md",
+      "url": "https://raw.githubusercontent.com/sashankg/Caesar/master/README.md",
       "background": "#8E44AD"
     },
     {
       "name": "Art Showcase",
-      "url": "https://cdn.rawgit.com/sashankg/ArtShowcase/master/README.md",
+      "url": "https://raw.githubusercontent.com/sashankg/ArtShowcase/master/README.md",
       "background": "https://cdn.rawgit.com/sashankg/ArtShowcase/master/artshowcasebg.png"
     },
     {
       "name": "Marksman Shooting",
-      "url": "https://cdn.rawgit.com/sashankg/DeadEyeShooting/master/README.md",
+      "url": "https://raw.githubusercontent.com/sashankg/DeadEyeShooting/master/README.md",
       "background": "green"
     },
     {
        "name": "Blog",
-       "url": "https://cdn.rawgit.com/sashankg/Blog-1.0/master/README.md",
+       "url": "https://raw.githubusercontent.com/sashankg/Blog-1.0/master/README.md",
        "background": "#3498DB"
     },
     {
       "name": "sashank.ga",
-      "url": "https://cdn.rawgit.com/sashankg/sashank.ga/master/README.md",
+      "url": "https://raw.githubusercontent.com/sashankg/sashank.ga/master/README.md",
       "background": "blue"
     }
   ]
